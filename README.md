@@ -7,3 +7,5 @@ API for registering new user: /register
 API for authenticating and generating jwt token: /authenticate
 
 Include Authorization header as "Bearer generated_token" to access any other API
+
+
